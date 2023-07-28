@@ -1,0 +1,25 @@
+Mon Jul 24 16:31:32 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 525.116.04   Driver Version: 525.116.04   CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100-SXM2...  On   | 00000000:0B:00.0 Off |                    0 |
+| N/A   34C    P0    43W / 163W |      0MiB / 32768MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+CURAND normal RNG  execution time (ms): 74.402817,  samples/sec: 2.580547e+10 
+Monte Carlo kernel execution time (ms): 15.318016 
+
+Average value and standard deviation of error  =    0.41786269    0.00015237
+

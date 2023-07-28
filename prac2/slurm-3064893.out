@@ -1,0 +1,4 @@
+CURAND normal RNG  execution time (ms): 0.410624,  samples/sec: 2.435318e+09 
+Monte Carlo kernel execution time (ms): 0.020480 
+Average value of result = 3.9867 
+Standard deviation of result = 3.9867 
